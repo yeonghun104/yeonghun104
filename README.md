@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeonghun104&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghun104&layout=compact&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeonghun104&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghun104&layout=compact&theme=tokyonight&count_private=true)
 
 <!--
 **yeonghun104/yeonghun104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
